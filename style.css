@@ -1,0 +1,32 @@
+ul li:hover a.nav-link {
+    background-color: rgb(31, 212, 212);
+    border-radius: 15px;
+    color: white;
+    transform: scale(1.1);
+    transition: .5s;
+
+
+}
+
+
+
+.container h1 {
+    font-weight: 700;
+}
+
+ul li #current {
+    background-color: aquamarine;
+}
+
+ul li a.nav-link {
+    margin-right: 0PX;
+    margin-right: 5px;
+    border-radius: 15px;
+
+}
+
+h5.card-title {
+    font-size: 26px;
+    font-weight: 700;
+    color: orange;
+}
